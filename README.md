@@ -1,5 +1,5 @@
 # beatsaver2discord
-Receive websocket send to discord webhook(s)
+Receive beatsaver websocket send to discord webhook(s)
 
 node ./beatsaver.js <Discord Webhook URL> [Discord Webhook URL]
 
